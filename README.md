@@ -167,8 +167,21 @@ All queries are available in `Analysis.sql` and can be executed independently or
 - To export a single query result to CSV in PostgreSQL: 
 
 ```sql
-\copy (SELECT ...) TO 'output.csv' CSV HEADER
+\copy (SELECT ...) TO 'output.csv' CSV HEADER 
 ```
+---
+
+## 📬 Contact
+
+If you’d like to discuss this project, collaborate, or connect for data analytics opportunities, feel free to reach out:
+
+- **Name:** Manohar K  
+- **LinkedIn:** https://www.linkedin.com/in/manohark1999  
+- **GitHub:** https://github.com/ManoharManu1999
+- **Email:** manoharmanu.k1999@gmail.com
+
+I’m open to feedback, collaboration, and data-related roles.
+
 ---
 
 ## 🤝 Contributing
