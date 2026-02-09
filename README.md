@@ -73,7 +73,7 @@ It illustrates the core entities (customers, invoices, tracks, artists, genres) 
 - Presentation (insights document): [Docs/Insights.md](Docs/Insights.md)
 - Presentation (viewable PDF): [Docs/SQL_Music_Store_Analysis.pdf](Docs/SQL_Music_Store_Analysis.pdf)
 - Presentation (editable PowerPoint): [Docs/SQL_Music_Store_Analysis.pptx](Docs/SQL_Music_Store_Analysis.pptx)
-- Supplementary questions PDF: [Docs/Music_Store_Analysis_Questions.pdf](Docs/Music%20Store%20Analysis-Questions.pdf)
+- Supplementary questions PDF: [Docs/Music_Store_Analysis_Questions.pdf](Docs/Music_Store_Analysis_Questions.pdf)
 
 ### Files in `Datasets/`
 
