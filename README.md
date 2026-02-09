@@ -38,7 +38,8 @@ SQL-MUSIC-STORE-ANALYSIS-PROJECT/
 │
 ├── Docs/
 │   ├── INSIGHTS.md
-│   └── Music Store Analysis-Questions.pdf
+│   ├── Music Store Analysis-Questions.pdf
+│   └── SQL Music Store Analysis.pptx
 │
 ├── Schema/
 │   └── music_database_full.sql
@@ -65,6 +66,11 @@ It illustrates the core entities (customers, invoices, tracks, artists, genres) 
 - **`Analysis.txt`** — plain-text version of analysis queries with comments  
 - **`README.md`** — project documentation  
 - **`schema_diagram.png`** — ER diagram of the database schema
+
+### Presentation & Insights
+
+- The project's key insights and business findings are documented in [Docs/INSIGHTS.md](Docs/INSIGHTS.md).
+- A ready-to-present PowerPoint summarizing the analysis is available in the repository root: [SQL_Music_Store_Analysis.pptx](Docs/SQL_Music_Store_Analysis.pptx).
 
 ### Files in `Datasets/`
 
