@@ -69,8 +69,11 @@ It illustrates the core entities (customers, invoices, tracks, artists, genres) 
 
 ### Presentation & Insights
 
-- The project's key insights and business findings are documented in [Docs/INSIGHTS.md](Docs/INSIGHTS.md).
-- A ready-to-present PowerPoint summarizing the analysis is available in the repository root: [SQL_Music_Store_Analysis.pptx](Docs/SQL_Music_Store_Analysis.pptx).
+- The project's key insights and business findings are documented in [Docs/Insights.md](Docs/Insights.md).
+- Presentation (insights document): [Docs/Insights.md](Docs/Insights.md)
+- Presentation (viewable PDF): [Docs/SQL_Music_Store_Analysis.pdf](Docs/SQL_Music_Store_Analysis.pdf)
+- Presentation (editable PowerPoint): [Docs/SQL_Music_Store_Analysis.pptx](Docs/SQL_Music_Store_Analysis.pptx)
+- Supplementary questions PDF: [Docs/Music_Store_Analysis_Questions.pdf](Docs/Music%20Store%20Analysis-Questions.pdf)
 
 ### Files in `Datasets/`
 
@@ -176,17 +179,17 @@ All queries are available in `Analysis.sql` and can be executed independently or
 \copy (SELECT ...) TO 'output.csv' CSV HEADER 
 ```
 ---
-
 ## 📬 Contact
 
-If you’d like to discuss this project, collaborate, or connect for data analytics opportunities, feel free to reach out:
+If you’d like to discuss this project or explore potential opportunities, feel free to connect with me:
 
-- **Name:** Manohar K  
-- **LinkedIn:** https://www.linkedin.com/in/manohark1999  
-- **GitHub:** https://github.com/ManoharManu1999
-- **Email:** manoharmanu.k1999@gmail.com
+- **Manohar K**
+- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/your-username  
+- **Email:** manoharmanu.k1999@gmail.com  
 
-I’m open to feedback, collaboration, and data-related roles.
+*Currently open to SQL and data analytics opportunities.*
+
 
 ---
 
